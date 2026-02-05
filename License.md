@@ -1,4 +1,4 @@
-# Ger Bot License (User4032 Style)
+# Ger Bot License 
 
 © 2026 Ger Bot. All rights reserved.
 
